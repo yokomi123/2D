@@ -1,0 +1,4 @@
+repository "2D@yoyo360@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
